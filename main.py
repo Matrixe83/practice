@@ -8,3 +8,7 @@ def count(lst):
   
 lst = ["Abba","Ace of Base","Modern Talking","John","Mike"]
 print count(lst)
+
+
+def hello(name):
+    print 'Hello {} I am glad to see you!!!'.format(name)
